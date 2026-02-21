@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sidb85
-- 👀 I’m interested in augmenting my skills in Product Management with those in programming, UX and marketing.
+- 👀 I’m interested in augmenting my skills in AI Product Management with those in programming (inc. vibe coding), UX and marketing.
 - 🌱 I’m currently learning ML and Quantum Computing
 - 💞️ I’m looking to collaborate on exploring how ML and Quantum Computing can be made accessible for non-Software Engineers.
 - 📫 How to reach me: Connect on Linkedin www.linkedin.com/in/siddhartha-banerjee-4371035
